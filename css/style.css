@@ -10,8 +10,23 @@ h2 {
   font-style: italic;
 }
 
-
 p {
   text-align: center;
-  font-family: sans-serif; 
+  font-family: sans-serif;
+}
+
+.headers {
+  color: #f7325e;
+}
+
+.text {
+  color: #7dc410;
+  font-family: fantasy;
+  text-align: justify;
+}
+
+.tropical {
+  color: #7dc410;
+  font-family: fantasy;
+  text-align: justify;
 }
