@@ -1,6 +1,6 @@
 # resort-website
 Dummy website to practice branching and merging
-
+Manuel Sande
 
 MIT License
 
